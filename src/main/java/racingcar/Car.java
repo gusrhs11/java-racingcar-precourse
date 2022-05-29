@@ -7,6 +7,7 @@ public class Car {
     public Car(String name) {
         this.name = name;
     }
+    int please = 0;
 
     // 추가 기능 구현
 }
