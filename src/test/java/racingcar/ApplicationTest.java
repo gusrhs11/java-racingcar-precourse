@@ -10,7 +10,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 class ApplicationTest extends NsTest {
     private static final int MOVING_FORWARD = 4;
     private static final int STOP = 3;
-    int a = 1;
+    int a = 0;
 
     private static final String ERROR_MESSAGE = "[ERROR]";
 
