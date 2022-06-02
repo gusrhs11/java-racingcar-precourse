@@ -25,6 +25,9 @@ public class Car {
     public int getPosition(){
         return position;
     }
+    public String getName(){
+        return getName();
+    }
 
     // 추가 기능 구현
 }
